@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=2669B2&center=true&vCenter=true&width=435&lines=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%B7%B1%E5%BA%A6%E4%B9%8B%E7%9C%BC~;Welcome+to+Depth+of+Eye~"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=2669B2&center=true&vCenter=true&width=435&lines=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%B7%B1%E5%BA%A6%E4%B9%8B%E7%9C%BC~;Welcome+to+Deepshare~"/>
   
   <div>&nbsp;</div>
 </div>

@@ -10,7 +10,7 @@
   <p>
     <b>📅 成立于 2017 年</b> | 
     <b>👥 70万+ 累计粉丝</b> | 
-    <b>👨‍🏫 600+ 国际师资</b> | 
+    <b>👨‍🏫 500+ 国际师资</b> | 
     <b>🎓 25万+ 服务学员</b>
   </p>
   <p align="center" style="max-width: 800px;">
@@ -32,4 +32,24 @@
 
 <br><br>
 
-<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="35" /> 联系我们 (Connect with Us)
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="35" /> 联系我们 (Connect with Us)</h2>
+
+<div align="center">
+  <a href="https://deepshare.net/" target="_blank">
+    <img src="https://img.shields.io/badge/官方网站-Deepshare-2669B2?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://space.bilibili.com/365093772" target="_blank">
+    <img src="https://img.shields.io/badge/B站主页-深度之眼-FF6699?style=for-the-badge&logo=bilibili&logoColor=white" />
+  </a>
+
+  <br><br>
+
+  <details>
+    <summary><b>✨ 点击扫码关注【深度之眼】微信公众号</b></summary>
+    <br>
+    <img src="https://github.com/user-attachments/assets/71f76663-1a21-4a5e-91a7-53349c02f1c9" width="200" alt="WeChat QR Code" />
+    <br>
+    <small>获取最新 AI 科研资讯与课程动态</small>
+  </details>
+</div>

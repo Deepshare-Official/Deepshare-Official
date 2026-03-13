@@ -8,66 +8,82 @@
 
 <div align="center">
   <p>
-    <b>📅 成立于 2017 年</b> | 
-    <b>👥 70万+ 累计粉丝</b> | 
-    <b>👨‍🏫 600+ 国际师资</b> | 
-    <b>🎓 25万+ 服务学员</b>
+    <kbd>📅 成立于 2017 年</kbd> &nbsp; 
+    <kbd>👥 70万+ 累计粉丝</kbd> &nbsp; 
+    <kbd>👨‍🏫 600+ 国际师资</kbd> &nbsp; 
+    <kbd>🎓 25万+ 服务学员</kbd>
   </p>
-  <p align="center" style="max-width: 800px;">
+  <p align="center" style="max-width: 800px; color: #666;">
     深度之眼专注于人工智能及交叉领域的科研教育平台。<br>我们通过系统化的课程体系与专业指导，为学员提供从科研基础入门到进阶提升的全方位服务。
   </p>
 </div>
 
-<br><br>
+<br>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%">
+</div>
+<br>
 
 <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="35" /> 开源学习资料 (Open Source Resources)</h2>
 
 <div align="center">
   <p>🚀 <b>开源课程，自由学习。点击对应的“徽章按钮”即可直接跳转至网盘下载。</b></p>
-  <p>🔑 <b>重要：请留意徽章中显示的提取码（PWD），下载时可能需要输入。</b></p>
   
   <br>
 
   <h3>🧠 一、AI 通识基础资料</h3>
-  <p>这里包含了入门 AI 必备的基础知识合集<br>（包含《数学基础》、《神经网络基础》、《Python基础》、《Pytorch基础》、《机器学习基础》）</p>
+  <p>入门 AI 必备的基础知识合集<br>
+  <code>《数学基础》</code> <code>《神经网络基础》</code> <code>《Python基础》</code> <code>《Pytorch基础》</code> <code>《机器学习基础》</code></p>
   <a href="https://pan.baidu.com/s/1bmEiVIyU1u3GA_yR6Z9bzw?pwd=x4hx" target="_blank">
-    <img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F_%E7%82%B9%E6%88%91%E4%B8%8B%E8%BD%BD-PWD:_x4hx-4CAF50?style=for-the-badge&logo=cloud-download&logoColor=white" height="35px">
+    <img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F_%E4%B8%80%E9%94%AE%E4%B8%8B%E8%BD%BD%E5%9F%BA%E7%A1%80%E8%B5%84%E6%96%99-%E6%8F%90%E5%8F%96%E7%A0%81:_x4hx-4CAF50?style=for-the-badge&logo=baidu&logoColor=white" height="40px">
   </a>
 
   <br><br><br>
 
   <h3>🔍 二、AI 细分领域进阶</h3>
-  <p>针对不同专业方向的专项学习资料：</p>
+  <p>针对不同专业方向的专项学习资料</p>
   
-  <p>
-    <b>CV 计算机视觉</b> &nbsp; 
-    <a href="https://pan.baidu.com/share/init?surl=19xktmdoKHNwOvLaU4sLzg&pwd=r869" target="_blank"><img src="https://img.shields.io/badge/点击下载-PWD:_r869-blue?style=flat-square&logo=cloud-download&logoColor=white"></a>
-    <br><br>
-    <b>NLP 自然语言处理</b> &nbsp; 
-    <a href="https://pan.baidu.com/share/init?surl=bTxEcXSVQDtkyxdGzmaaiA&pwd=yx8z" target="_blank"><img src="https://img.shields.io/badge/点击下载-PWD:_yx8z-673AB7?style=flat-square&logo=cloud-download&logoColor=white"></a>
-    <br><br>
-    <b>推荐系统资料</b> &nbsp; 
-    <a href="https://pan.baidu.com/share/init?surl=P3L5TEsqDyZgET6IYiQoyA&pwd=3fve" target="_blank"><img src="https://img.shields.io/badge/点击下载-PWD:_3fve-FF9800?style=flat-square&logo=cloud-download&logoColor=white"></a>
-    <br><br>
-    <b>时间序列资料</b> &nbsp; 
-    <a href="https://pan.baidu.com/share/init?surl=314nvI0iKHCQGr0kt-1oTw&pwd=rnsx" target="_blank"><img src="https://img.shields.io/badge/点击下载-PWD:_rnsx-009688?style=flat-square&logo=cloud-download&logoColor=white"></a>
-  </p>
+  <table align="center">
+    <tr>
+      <td align="right" width="200"><b>CV 计算机视觉</b></td>
+      <td align="left" width="250"><a href="https://pan.baidu.com/share/init?surl=19xktmdoKHNwOvLaU4sLzg&pwd=r869" target="_blank"><img src="https://img.shields.io/badge/点击下载-%E6%8F%90%E5%8F%96%E7%A0%81:_r869-2669B2?style=for-the-badge&logo=cloud-download&logoColor=white"></a></td>
+    </tr>
+    <tr>
+      <td align="right"><b>NLP 自然语言处理</b></td>
+      <td align="left"><a href="https://pan.baidu.com/share/init?surl=bTxEcXSVQDtkyxdGzmaaiA&pwd=yx8z" target="_blank"><img src="https://img.shields.io/badge/点击下载-%E6%8F%90%E5%8F%96%E7%A0%81:_yx8z-673AB7?style=for-the-badge&logo=cloud-download&logoColor=white"></a></td>
+    </tr>
+    <tr>
+      <td align="right"><b>推荐系统</b></td>
+      <td align="left"><a href="https://pan.baidu.com/share/init?surl=P3L5TEsqDyZgET6IYiQoyA&pwd=3fve" target="_blank"><img src="https://img.shields.io/badge/点击下载-%E6%8F%90%E5%8F%96%E7%A0%81:_3fve-FF9800?style=for-the-badge&logo=cloud-download&logoColor=white"></a></td>
+    </tr>
+    <tr>
+      <td align="right"><b>时间序列</b></td>
+      <td align="left"><a href="https://pan.baidu.com/share/init?surl=314nvI0iKHCQGr0kt-1oTw&pwd=rnsx" target="_blank"><img src="https://img.shields.io/badge/点击下载-%E6%8F%90%E5%8F%96%E7%A0%81:_rnsx-009688?style=for-the-badge&logo=cloud-download&logoColor=white"></a></td>
+    </tr>
+  </table>
 
   <br><br>
 
   <h3>📖 三、AI 经典书籍带读</h3>
-  <p>经典教材的配套带读与解析资料：</p>
+  <p>经典教材的配套带读与解析资料</p>
   
-  <p>
-    <b>机器学习</b>（统计学习方法 + 西瓜书资料）<br>
-    <a href="https://pan.baidu.com/share/init?surl=samwzBApAfd1VHRIzbVR6w&pwd=zr4h" target="_blank"><img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F_%E7%BD%91%E7%9B%98%E4%B8%8B%E8%BD%BD-PWD:_zr4h-FF5722?style=for-the-badge&logo=cloud-download&logoColor=white" height="30px"></a>
-    <br><br>
-    <b>深度学习</b>（花书资料）<br>
-    <a href="https://pan.baidu.com/s/1samwzBApAfd1VHRIzbVR6w?pwd=zr4h" target="_blank"><img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F_%E7%BD%91%E7%9B%98%E4%B8%8B%E8%BD%BD-PWD:_zr4h-FF5722?style=for-the-badge&logo=cloud-download&logoColor=white" height="30px"></a>
-  </p>
+  <table align="center">
+    <tr>
+      <td align="right" width="200"><b>机器学习</b><br><small>(统计学习方法+西瓜书)</small></td>
+      <td align="left" width="250"><a href="https://pan.baidu.com/share/init?surl=samwzBApAfd1VHRIzbVR6w&pwd=zr4h" target="_blank"><img src="https://img.shields.io/badge/网盘下载-%E6%8F%90%E5%8F%96%E7%A0%81:_zr4h-FF5722?style=for-the-badge&logo=cloud-download&logoColor=white"></a></td>
+    </tr>
+    <tr>
+      <td align="right"><b>深度学习</b><br><small>(花书资料)</small></td>
+      <td align="left"><a href="https://pan.baidu.com/s/1samwzBApAfd1VHRIzbVR6w?pwd=zr4h" target="_blank"><img src="https://img.shields.io/badge/网盘下载-%E6%8F%90%E5%8F%96%E7%A0%81:_zr4h-FF5722?style=for-the-badge&logo=cloud-download&logoColor=white"></a></td>
+    </tr>
+  </table>
 </div>
 
-<br><br>
+<br>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%">
+</div>
+<br>
 
 <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="35" /> 联系我们 (Connect with Us)</h2>
 

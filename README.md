@@ -18,11 +18,7 @@
   </p>
 </div>
 
-<br>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%">
-</div>
-<br>
+<br><br>
 
 <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="35" /> 开源学习资料 (Open Source Resources)</h2>
 
@@ -38,7 +34,9 @@
     <img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F_%E4%B8%80%E9%94%AE%E4%B8%8B%E8%BD%BD%E5%9F%BA%E7%A1%80%E8%B5%84%E6%96%99-%E6%8F%90%E5%8F%96%E7%A0%81:_x4hx-4CAF50?style=for-the-badge&logo=baidu&logoColor=white" height="40px">
   </a>
 
-  <br><br><br>
+  <br><br>
+  <hr style="width: 80%;">
+  <br>
 
   <h3>🔍 二、AI 细分领域进阶</h3>
   <p>针对不同专业方向的专项学习资料</p>
@@ -54,54 +52,4 @@
     </tr>
     <tr>
       <td align="right"><b>推荐系统</b></td>
-      <td align="left"><a href="https://pan.baidu.com/share/init?surl=P3L5TEsqDyZgET6IYiQoyA&pwd=3fve" target="_blank"><img src="https://img.shields.io/badge/点击下载-%E6%8F%90%E5%8F%96%E7%A0%81:_3fve-FF9800?style=for-the-badge&logo=cloud-download&logoColor=white"></a></td>
-    </tr>
-    <tr>
-      <td align="right"><b>时间序列</b></td>
-      <td align="left"><a href="https://pan.baidu.com/share/init?surl=314nvI0iKHCQGr0kt-1oTw&pwd=rnsx" target="_blank"><img src="https://img.shields.io/badge/点击下载-%E6%8F%90%E5%8F%96%E7%A0%81:_rnsx-009688?style=for-the-badge&logo=cloud-download&logoColor=white"></a></td>
-    </tr>
-  </table>
-
-  <br><br>
-
-  <h3>📖 三、AI 经典书籍带读</h3>
-  <p>经典教材的配套带读与解析资料</p>
-  
-  <table align="center">
-    <tr>
-      <td align="right" width="200"><b>机器学习</b><br><small>(统计学习方法+西瓜书)</small></td>
-      <td align="left" width="250"><a href="https://pan.baidu.com/share/init?surl=samwzBApAfd1VHRIzbVR6w&pwd=zr4h" target="_blank"><img src="https://img.shields.io/badge/网盘下载-%E6%8F%90%E5%8F%96%E7%A0%81:_zr4h-FF5722?style=for-the-badge&logo=cloud-download&logoColor=white"></a></td>
-    </tr>
-    <tr>
-      <td align="right"><b>深度学习</b><br><small>(花书资料)</small></td>
-      <td align="left"><a href="https://pan.baidu.com/s/1samwzBApAfd1VHRIzbVR6w?pwd=zr4h" target="_blank"><img src="https://img.shields.io/badge/网盘下载-%E6%8F%90%E5%8F%96%E7%A0%81:_zr4h-FF5722?style=for-the-badge&logo=cloud-download&logoColor=white"></a></td>
-    </tr>
-  </table>
-</div>
-
-<br>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%">
-</div>
-<br>
-
-<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="35" /> 联系我们 (Connect with Us)</h2>
-
-<div align="center">
-  <a href="https://deepshare.net/" target="_blank">
-    <img src="https://img.shields.io/badge/官方网站-Deepshare-2669B2?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://space.bilibili.com/365093772" target="_blank">
-    <img src="https://img.shields.io/badge/B站主页-深度之眼-FF6699?style=for-the-badge&logo=bilibili&logoColor=white" />
-  </a>
-
-  <br><br>
-
-  <div>
-    <p><b>扫码关注【深度之眼】微信公众号</b></p>
-    <img src="https://github.com/user-attachments/assets/71f76663-1a21-4a5e-91a7-53349c02f1c9" width="180" alt="WeChat QR Code" />
-    <br>
-    <small>获取最新 AI 科研资讯与课程动态</small>
-  </div>
-</div>
+      <td align="left"><a href="https://pan.baidu.com/share/init?surl=P
